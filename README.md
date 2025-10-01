@@ -1,2 +1,4 @@
 # Desarrollo-de-aplicaciones-para-telecomunicaciones
-Creación de repositorio para la asignatura DAT del MUIT - UGR
+Máster Universitario en Ingeniería de Telecomunicación
+2do año
+Heiner Buitrago
